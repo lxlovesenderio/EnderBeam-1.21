@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "enderbeam:block/basic_data_port"
+    }
+  }
+}

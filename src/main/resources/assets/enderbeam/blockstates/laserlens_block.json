@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "enderbeam:block/laserlens_block"
+    }
+  }
+}

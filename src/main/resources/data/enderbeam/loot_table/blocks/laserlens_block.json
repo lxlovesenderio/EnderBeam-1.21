@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "enderbeam:laserlens_block"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "enderbeam:blocks/laserlens_block"
+}

@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "enderbeam:basic_data_port",
+    "enderbeam:basic_fuel_intake",
+    "enderbeam:basic_power_intake",
+    "enderbeam:basic_rocket_stabilizer",
+    "enderbeam:laserlens_block",
+    "enderbeam:laserled_block",
+    "enderbeam:laser_parabole"
+  ]
+}

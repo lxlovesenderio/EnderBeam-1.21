@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "enderbeam:basic_satelite_panel"
+    }
+  ],
+  "result": {
+    "id": "enderbeam:advanced_satelite_panel",
+    "count": 1
+  }
+}

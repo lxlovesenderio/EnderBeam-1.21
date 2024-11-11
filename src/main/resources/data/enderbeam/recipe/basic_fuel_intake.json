@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "enderio:pulsating_alloy_ingot"
+    },
+    "E": {
+      "item": "enderio:redstone_alloy_ingot"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    " P ",
+    " E ",
+    " D "
+  ],
+  "result": {
+    "id": "enderbeam:laser_parabole",
+    "count": 1
+  }
+}
